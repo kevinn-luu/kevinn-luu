@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hi, I'm Kevin Lu!<br><br>I'm currently a 3rd year Neuroscience student at the University of British Columbia <br>specializing in the cellular and molecular stream. <br><br>Aside from neuroscience, I also enjoy programming and have skills in full-stack development,<br>data science, and machine learning. <br><br>I'm currently working on enhancing my python and data science skills as I hope to pursue<br>a career in computational neuroscience.
 
 
 ## 🌐 Socials:
